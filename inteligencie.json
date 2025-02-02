@@ -1,0 +1,137 @@
+{
+    "apis": [
+        {
+            "name": "bypass1",
+            "url": "https://spiny-cliff-leather.glitch.me/bypass?key=tekscripts&url={url}",
+            "method": "GET",
+            "parse_json": true,
+            "response_key": "result"
+        },
+        {
+            "name": "bypass3",
+            "url": "https://keybypass.vercel.app/api/fluxus?url={url}",
+            "method": "GET",
+            "parse_json": true,
+            "response_key": "result"
+        },
+        {
+            "name": "bypass4",
+            "url": "https://keybypass.vercel.app/api/delta?url={url}",
+            "method": "GET",
+            "parse_json": true,
+            "response_key": "result"
+        },
+        {
+            "name": "bypass5",
+            "url": "http://fi4.bot-hosting.net:22869/bypass?url={url}",
+            "method": "GET",
+            "parse_json": true,
+            "response_key": "result"
+        },
+        {
+            "name": "bypass6",
+            "url": "https://slr.kys.gay/api/v3/bypass?url={url}",
+            "method": "GET",
+            "parse_json": true,
+            "response_key": "result"
+        },
+        {
+            "name": "bypass7",
+            "url": "http://helya.pylex.xyz:10234/api/addlink?url={url}",
+            "method": "GET",
+            "parse_json": true,
+            "response_key": "result"
+        },
+        {
+            "name": "bypass8",
+            "url": "https://stickx.top/api-fluxus/?hwid={url}&api_key=E99l9NOctud3vmu6bPne",
+            "method": "GET",
+            "parse_json": true,
+            "response_key": "key"
+        },
+        {
+            "name": "bypass9",
+            "url": "https://api-bypass.robloxexecutorth.workers.dev/trigon?url={url}",
+            "method": "GET",
+            "parse_json": true,
+            "response_key": "key"
+        },
+        {
+            "name": "bypass10",
+            "url": "https://api-bypass.robloxexecutorth.workers.dev/codex?url={url}",
+            "method": "GET",
+            "parse_json": true,
+            "response_key": "key"
+        },
+        {
+            "name": "bypass11",
+            "url": "https://api-bypass.robloxexecutorth.workers.dev/rekonise?url={url}",
+            "method": "GET",
+            "parse_json": true,
+            "response_key": "key"
+        },
+        {
+            "name": "bypass12",
+            "url": "https://api-bypass.robloxexecutorth.workers.dev/workink?url={url}",
+            "method": "GET",
+            "parse_json": true,
+            "response_key": "key"
+        },
+        {
+            "name": "bypass13",
+            "url": "https://api-bypass.robloxexecutorth.workers.dev/mediafire?url={url}",
+            "method": "GET",
+            "parse_json": true,
+            "response_key": "key"
+        },
+        {
+            "name": "bypass14",
+            "url": "https://api-bypass.robloxexecutorth.workers.dev/linkvertise?url={url}",
+            "method": "GET",
+            "parse_json": true,
+            "response_key": "key"
+        },
+        {
+            "name": "bypass15",
+            "url": "https://api-bypass.robloxexecutorth.workers.dev/fluxus?url={url}",
+            "method": "GET",
+            "parse_json": true,
+            "response_key": "key"
+        },
+        {
+            "name": "bypass16",
+            "url": "https://iwoozie.baby/api/free/bypass?url={url}",
+            "method": "GET",
+            "parse_json": true,
+            "response_key": "result"
+        },
+        {
+            "name": "bypass17",
+            "url": "http://lat.66n6.asia/bypass/fluxus/?url={url}",
+            "method": "GET",
+            "parse_json": true,
+            "response_key": "key"
+        },
+        {
+            "name": "bypass18",
+            "url": "http://lat.66n6.asia/bypass/vegax/?url={url}",
+            "method": "GET",
+            "parse_json": true,
+            "response_key": "key"
+        },
+        {
+            "name": "bypass19",
+            "url": "http://lat.66n6.asia/bypass/loot-link/?url={url}",
+            "method": "GET",
+            "parse_json": true,
+            "response_key": "key"
+        },
+        {
+            "name": "bypass20",
+            "url": "http://lat.66n6.asia/bypass/codex/?url={url}",
+            "method": "GET",
+            "parse_json": true,
+            "response_key": "key"
+        }
+    ]
+}
